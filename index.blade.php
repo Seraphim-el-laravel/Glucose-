@@ -17,11 +17,8 @@
 <body>
 
 <div class="super_container">
-	
 	<!-- Header -->
-
 	<header class="header trans_200">
-		
 		<!-- Top Bar -->
 		<div class="top_bar">
 			<div class="container">
@@ -223,4 +220,5 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <script src="plugins/parallax-js-master/parallax.min.js"></script>
 <script src="js/custom.js"></script>
 </body>
+
 </html>
